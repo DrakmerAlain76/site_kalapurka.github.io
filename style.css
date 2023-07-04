@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    /* border: 0; */
+    margin: 0;
+    background-color: #ED9C3C;
+}
+#content{
+    text-align: center;
+}
